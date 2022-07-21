@@ -326,6 +326,7 @@ section:nth-child(2n + 1) {
     color: transparent;
     text-align: center;
     padding: 10px;
+    overflow: auto;
 }
 
 .portfolio-image-container:hover {
@@ -337,7 +338,7 @@ section:nth-child(2n + 1) {
     color: white;
 }
 
-
+ 
 
 /* Contact Form */
 
